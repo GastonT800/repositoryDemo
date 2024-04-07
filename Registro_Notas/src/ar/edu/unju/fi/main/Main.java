@@ -37,7 +37,7 @@ public class Main {
 		alumno.setLegajo(legajo);
 		alumno.setAoellido(apellido);
 		alumno.setNombre(nombre);
-//		scanner.close();
+		//scanner.close();
 
 		return alumno;
 		
