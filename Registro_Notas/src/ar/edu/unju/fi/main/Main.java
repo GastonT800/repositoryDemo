@@ -32,8 +32,7 @@ public class Main {
 
 		System.out.print("Ingrese el nombre: ");
 		String nombre = scanner.next();
-		
-		
+			
 		alumno.setLegajo(legajo);
 		alumno.setAoellido(apellido);
 		alumno.setNombre(nombre);
