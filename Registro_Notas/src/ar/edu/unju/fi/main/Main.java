@@ -57,7 +57,6 @@ public class Main {
 			
 			Materia materia = new Materia(codigoMateria, nombreMateria);
 			
-			
 			System.out.print("Ingrese el codigo del registro de nota:  ");
 			String codigoNota = scanner.next();
 			System.out.print("Ingrese nota final: ");
